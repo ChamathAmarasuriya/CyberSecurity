@@ -1,0 +1,6 @@
+gobuster -u <URL> -w <wordlist> dir
+this is for serch the /location directrys for the provided url
+
+udin paath wena uname pw gahana ewwage password hoyana eka.
+ex: jboss consol
+hydra -l admin -P otp.txt http-get://enum.thm/labs/basic_auth/:A=BASIC -vV
