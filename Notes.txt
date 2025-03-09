@@ -4,3 +4,9 @@ this is for serch the /location directrys for the provided url
 udin paath wena uname pw gahana ewwage password hoyana eka.
 ex: jboss consol
 hydra -l admin -P otp.txt http-get://enum.thm/labs/basic_auth/:A=BASIC -vV
+
+way back URL: to check old version snapshots of any url
+https://archive.org/web/
+To find administrative panels: site:example.com inurl:admin
+To unearth log files with passwords: filetype:log "password" site:example.com
+To discover backup directories: intitle:"index of" "backup" site:example.com
